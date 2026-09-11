@@ -19,7 +19,7 @@
     "/src/nunjucks/"
   ],
   "importNunjucksMacrosInto": [
-    "/nunjucks/sg-prototype-templates/layouts/_base-layout.njk"
+    "/src/nunjucks/sg-prototype-templates/layouts/_base-layout.njk"
   ],
   "templates": [
     {
